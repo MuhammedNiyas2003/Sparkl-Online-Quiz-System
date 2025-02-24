@@ -1,0 +1,5 @@
+package com.quizsystem.config;
+
+public class SecurityConfig {
+
+}
