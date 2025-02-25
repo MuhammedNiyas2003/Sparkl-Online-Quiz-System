@@ -1,0 +1,5 @@
+package com.quizsystem.repository;
+
+public class UserRepository {
+
+}

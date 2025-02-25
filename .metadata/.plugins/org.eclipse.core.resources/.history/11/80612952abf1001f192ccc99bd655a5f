@@ -1,0 +1,5 @@
+package com.quizsystem.exception;
+
+public class GlobalExceptionHandler {
+
+}
