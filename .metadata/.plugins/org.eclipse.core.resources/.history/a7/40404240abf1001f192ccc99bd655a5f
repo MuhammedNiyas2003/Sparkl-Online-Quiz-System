@@ -1,5 +1,0 @@
-package com.quizsystem.exception;
-
-public class ResourceNotFoundException {
-
-}
