@@ -1,1 +1,0 @@
-# Sparkl-Online-Quiz-System
